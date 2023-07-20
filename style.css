@@ -1,0 +1,26 @@
+.menu {
+   display: flex;
+   justify-content: center;
+   background-color: black;
+   padding: 42px;
+
+}
+
+body {
+   margin: 50px;
+   background-color: #8236c9;
+   background-image: url("imagens/Imagemdefundo.jpg");
+
+}
+
+a {
+   text-decoration: overline
+}
+
+p {
+   font-size: 30px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-weight: 365;
+   color: green;
+
+}
